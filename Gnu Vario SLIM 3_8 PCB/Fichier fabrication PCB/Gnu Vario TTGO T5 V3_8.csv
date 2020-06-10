@@ -1,0 +1,14 @@
+"Id";"Référence";"Boîtier";"Quantité";"Désignation";"Fournisseur et réf";
+1;"U2";"GPS";1;"ATGM336H";;;
+2;"LS1";"Speaker";1;"4-8 ohms";;;
+3;"ESP321";"TTGO_T5_V1.x";1;"TTGO_T5";;;
+4;"Q1";"S8050 SOT-23";1;"SOT-23";;;
+5;"U1";"CJMCU-117";1;"CJMCU_117";;;
+6;"Q1 shunt";"R_1206_3216Metric";1;"R_1206_3216Metric";;;
+7;"R2,R1";"R_1206_3216Metric";2;"4.7k";;;
+8;"R3";"R_1206_3216Metric";1;"1k";;;
+9;"R4";"R_1206_3216Metric";1;"10k";;;
+10;"G***";"QRCode";1;"LOGO";;;
+11;"REF**,REF**,REF**";"Hole";3;"trou pads";;;
+12;"G***";"logo";1;"LOGO";;;
+13;"REF**";"pad_mesures";1;"pad_mesures";;;
